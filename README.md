@@ -1,15 +1,23 @@
  Hi 👋, ADITYA PRATAP SINGH
+ 
 A passionate full stack Engineer || DevOps Engineer || MERN
 
 Email Me 👉 ✉️ singhaditya4560@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: automation project
+
 🌱 I’m currently learning: MERN.......
+
 👯 I’m looking to collaborate on: automation ai for full info join me 
+
 🤔 I’m looking for help with: skill swap project
+
 💬 Ask me about: Collaboration, Tech Support.
+
 📫 How to reach me: singhaditya4560@gmail.com
+
 😄 Pronouns: Aditya pratap singh.
+
 ⚡ Fun fact: I love code and code loves me.
 
 ## 🌐 Socials:

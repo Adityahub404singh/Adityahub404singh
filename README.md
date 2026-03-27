@@ -6,7 +6,7 @@ Email Me 👉 ✉️ singhaditya4560@gmail.com For Collaboration/Project or Anyt
 
 🔭 I’m currently working on: automation project
 
-🌱 I’m currently learning: MERN.......
+🌱 I’m currently learning: MERN......
 
 👯 I’m looking to collaborate on: automation ai for full info join me 
 

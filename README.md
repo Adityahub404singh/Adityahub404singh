@@ -3,7 +3,7 @@
 
 <p align="center">
   B.Tech CSE @ KCC Institute of Technology & Management, Noida<br/>
-  I design, build, and ship complete products solo — frontend, backend, database, deployment, and DevOps.
+  I build and ship complete products solo — frontend, backend, database, deployment, and DevOps.
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 ## 🧭 About Me
 
-I'm a Computer Science student who builds and ships real, production-grade products rather than tutorial projects. I handle the entire lifecycle myself — architecture, frontend, backend, database design, deployment, monitoring, and bug fixing under real user load.
+I'm a Computer Science student who likes building complete, working products instead of just tutorial projects. I handle the whole lifecycle myself — architecture, frontend, backend, database design, deployment, and debugging.
 
-- 🔭 **Currently building:** SkillSwap — a peer-to-peer skill exchange platform, and Ytauto AI — a content automation SaaS
-- 🌱 **Currently deepening:** DevOps practices, system design, and scalable backend architecture
-- 👯 **Looking to collaborate on:** AI-powered automation tools and full-stack SaaS products
-- 🤝 **Looking for help with:** Scaling SkillSwap's infrastructure and growth
-- 💬 **Ask me about:** React, Node.js/Express, PostgreSQL, Firebase, deployment pipelines, and debugging production issues
+- 🔭 **Currently building:** SkillSwap — a peer-to-peer skill exchange platform, and Ytauto AI — a content automation tool
+- 🌱 **Currently learning:** DevOps practices, system design, and scalable backend architecture
+- 👯 **Looking to collaborate on:** AI-powered automation tools and full-stack projects
+- 🤝 **Looking for help with:** Scaling SkillSwap's infrastructure
+- 💬 **Ask me about:** React, Node.js/Express, PostgreSQL, Firebase, and deployment pipelines
 - 📫 **Reach me at:** singhaditya4560@gmail.com
 - ⚡ **Fun fact:** I've lost count of how many times "final_v2_FINAL" has saved a project
 
@@ -37,31 +37,28 @@ I'm a Computer Science student who builds and ships real, production-grade produ
 
 ### 🔄 [SkillSwap](https://skillswap-india.vercel.app) — Peer-to-Peer Skill Exchange Platform
 
-A full-stack marketplace where users exchange skills instead of money, using a credit-based escrow system to keep transactions fair and fraud-free.
+A full-stack marketplace where users exchange skills instead of money, using a credit-based system to keep transactions fair.
 
-**Key features shipped:**
-- Escrow-based credit system with dual confirmation and OTP verification for session completion
-- Credit farming and fraud detection logic
-- Full admin panel — KPI dashboard, analytics, global search, reports, broadcast notifications, user suspension, and login-as-user impersonation
-- Real-time notification system (matches, messages, session cancellations, booking confirmations)
-- Teacher dashboard with pending request tracking
-- GDPR-compliant account deletion flow
-- Razorpay-based payment and escrow integration
-- Native Android app via Capacitor, with custom package/OAuth reconfiguration
-- Production monitoring and bug fixes: resolved oversized API payloads (~586kB responses), fixed broken relative API URLs inside the Android WebView, and fixed a cron job that was failing due to incorrect internal networking
+**Key features:**
+- Credit-based system with confirmation flow for session completion
+- Admin panel — dashboard, analytics, search, user management
+- Real-time notifications (matches, messages, booking updates)
+- Teacher dashboard with request tracking
+- Razorpay payment integration
+- Android app via Capacitor
+- Debugged real production issues: oversized API payloads, broken relative API URLs inside the Android WebView, and a cron job failing due to internal networking config
 
 **Tech stack:** React, TypeScript, Vite, Express.js, Drizzle ORM, Neon PostgreSQL, Vercel, Render, Capacitor (Android)
 
 ---
 
-### 🤖 Ytauto AI — YouTube/Instagram Content Automation SaaS
+### 🤖 Ytauto AI — YouTube/Instagram Content Automation Tool
 
-An automation platform that generates and renders short-form video content using multiple AI pipelines.
+A tool that generates and renders short-form video content using AI pipelines.
 
-**Key features shipped:**
-- Multi-tier video render pipeline: typography-based videos, AI-generated visuals (Kling AI, Pollinations AI), and stock footage assembly
-- Category and configuration syncing between frontend and backend
-- Debugged and resolved storage path and encoding issues in the render pipeline
+**Key features:**
+- Video render pipeline combining typography-based videos, AI-generated visuals (Kling AI, Pollinations AI), and stock footage
+- Debugged storage path and encoding issues in the render pipeline
 
 **Tech stack:** Next.js, Node.js, AI video/image generation APIs
 
@@ -69,12 +66,12 @@ An automation platform that generates and renders short-form video content using
 
 ### 🎓 Dev Internship Platform
 
-A Firebase-hosted internship portal with a fully admin-controlled application workflow.
+A Firebase-hosted internship portal with an admin-controlled application workflow.
 
-**Key features shipped:**
-- Rebuilt the entire email flow so all applicant/offer emails are admin-triggered only, removing automatic emails on submission
-- Password-gated admin panel for reviewing and approving applications
-- EmailJS + Firestore integration on Firebase's free tier
+**Key features:**
+- Rebuilt the email flow so applicant/offer emails are admin-triggered only
+- Password-gated admin panel for reviewing applications
+- EmailJS + Firestore on Firebase's free tier
 
 **Tech stack:** Firebase, Firestore, EmailJS, JavaScript
 
@@ -84,10 +81,10 @@ A Firebase-hosted internship portal with a fully admin-controlled application wo
 
 A real-time tutoring platform connecting students and mentors.
 
-**Key features shipped:**
+**Key features:**
 - Real-time messaging with Socket.io
-- Rebuilt 12+ pages and resolved a dead-code audit that surfaced duplicate API clients and auth systems
-- Fixed backend response-shape mismatches between controllers and frontend expectations
+- Cleaned up duplicate API clients and auth systems during a dead-code audit
+- Fixed backend/frontend response-shape mismatches
 
 **Tech stack:** React, TypeScript, Node.js, MongoDB, Socket.io
 
@@ -142,59 +139,37 @@ A real-time tutoring platform connecting students and mentors.
 KCC Institute of Technology & Management, Noida  
 *Coursework: Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, Software Engineering*
 
-While the coursework built the fundamentals, most of my practical engineering skill comes from shipping and maintaining real products — debugging production incidents, designing schemas that survive scale, and making deployment decisions under time pressure.
+Most of my practical skills come from actually building and maintaining these projects — debugging real issues, designing schemas, and making deployment decisions along the way.
 
 ---
 
 ## 🧩 How I Work
 
-- **Ship first, polish after** — I get a working version live, then iterate based on real usage and bugs, not assumptions.
-- **Own the full stack** — from database schema to UI to server config, I don't hand off pieces; I understand the whole system I build.
-- **Debug from first principles** — when something breaks in production, I read logs and reproduce the issue rather than guessing at fixes.
-- **Document as I go** — clear commit messages and internal notes so future-me (and any collaborator) isn't lost six months later.
-
----
-
-## 🏆 Milestones
-
-- 🚢 Shipped SkillSwap to production with real users, live payments (Razorpay), and a native Android release
-- 🛠️ Built and deployed a full admin operations panel from scratch — analytics, moderation, and support tooling in one place
-- 🔁 Diagnosed and fixed multiple production-breaking bugs independently, including silent route-registration failures and cron job networking issues
-- 📱 Took a web app to a native Android app using Capacitor, including OAuth and Firebase reconfiguration
-- 🧱 Migrated and maintained a Drizzle ORM + PostgreSQL schema through several iterations without data loss
+- **Ship first, polish after** — get a working version live, then iterate based on real usage and bugs.
+- **Own the full stack** — from database schema to UI to server config.
+- **Debug from first principles** — read logs and reproduce the issue rather than guessing.
+- **Document as I go** — clear commit messages so future-me isn't lost six months later.
 
 ---
 
 ## 📚 What I'm Learning Next
 
-- System design patterns for scaling multi-tenant SaaS products
-- Advanced PostgreSQL performance tuning and indexing strategies
-- CI/CD pipelines with GitHub Actions for automated testing and deployment
-- Observability — structured logging, error tracking, and uptime monitoring for production apps
+- System design patterns for scaling apps
+- PostgreSQL performance tuning and indexing
+- CI/CD pipelines with GitHub Actions
+- Observability — logging, error tracking, uptime monitoring
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Adityahub404singh&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adityahub404singh&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityahub404singh&show_icons=true&theme=dark&hide_border=false&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityahub404singh&layout=compact&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Adityahub404singh&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Adityahub404singh&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
 </p>
 
 ---
@@ -202,19 +177,17 @@ While the coursework built the fundamentals, most of my practical engineering sk
 ## ❓ FAQ
 
 **Q: Do you work solo on all these projects?**  
-Yes — I handle frontend, backend, database, deployment, and DevOps myself for each product listed above.
+Yes — frontend, backend, database, and deployment, myself, for each project above.
 
 **Q: Are you open to freelance or internship work?**  
-Yes, especially in full-stack development, DevOps, or backend architecture roles.
+Yes, especially full-stack development, DevOps, or backend architecture roles.
 
-**Q: What's the best way to see your work?**  
-Check the pinned repositories on this profile, or visit [SkillSwap](https://skillswap-india.vercel.app) directly — it's live in production.
+**Q: Best way to see your work?**  
+Check my pinned repos, or visit [SkillSwap](https://skillswap-india.vercel.app) directly.
 
 ---
 
 ## 📫 Let's Connect
-
-I'm open to collaboration, freelance work, and internship opportunities in full-stack development and DevOps.
 
 - 📧 Email: **singhaditya4560@gmail.com**
 - 💼 LinkedIn: [aditya-singh-47b218321](https://www.linkedin.com/in/aditya-singh-47b218321)

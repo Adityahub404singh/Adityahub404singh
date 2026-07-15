@@ -136,6 +136,44 @@ A real-time tutoring platform connecting students and mentors.
 
 ---
 
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering**  
+KCC Institute of Technology & Management, Noida  
+*Coursework: Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, Software Engineering*
+
+While the coursework built the fundamentals, most of my practical engineering skill comes from shipping and maintaining real products — debugging production incidents, designing schemas that survive scale, and making deployment decisions under time pressure.
+
+---
+
+## 🧩 How I Work
+
+- **Ship first, polish after** — I get a working version live, then iterate based on real usage and bugs, not assumptions.
+- **Own the full stack** — from database schema to UI to server config, I don't hand off pieces; I understand the whole system I build.
+- **Debug from first principles** — when something breaks in production, I read logs and reproduce the issue rather than guessing at fixes.
+- **Document as I go** — clear commit messages and internal notes so future-me (and any collaborator) isn't lost six months later.
+
+---
+
+## 🏆 Milestones
+
+- 🚢 Shipped SkillSwap to production with real users, live payments (Razorpay), and a native Android release
+- 🛠️ Built and deployed a full admin operations panel from scratch — analytics, moderation, and support tooling in one place
+- 🔁 Diagnosed and fixed multiple production-breaking bugs independently, including silent route-registration failures and cron job networking issues
+- 📱 Took a web app to a native Android app using Capacitor, including OAuth and Firebase reconfiguration
+- 🧱 Migrated and maintained a Drizzle ORM + PostgreSQL schema through several iterations without data loss
+
+---
+
+## 📚 What I'm Learning Next
+
+- System design patterns for scaling multi-tenant SaaS products
+- Advanced PostgreSQL performance tuning and indexing strategies
+- CI/CD pipelines with GitHub Actions for automated testing and deployment
+- Observability — structured logging, error tracking, and uptime monitoring for production apps
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -165,13 +203,16 @@ A real-time tutoring platform connecting students and mentors.
 
 ---
 
-## 📈 Contribution Snake
+## ❓ FAQ
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adityahub404singh/Adityahub404singh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+**Q: Do you work solo on all these projects?**  
+Yes — I handle frontend, backend, database, deployment, and DevOps myself for each product listed above.
 
-> Note: The snake animation needs a one-time GitHub Action set up in this repo. Ask me and I'll walk you through enabling it — it auto-generates on every push.
+**Q: Are you open to freelance or internship work?**  
+Yes, especially in full-stack development, DevOps, or backend architecture roles.
+
+**Q: What's the best way to see your work?**  
+Check the pinned repositories on this profile, or visit [SkillSwap](https://skillswap-india.vercel.app) directly — it's live in production.
 
 ---
 

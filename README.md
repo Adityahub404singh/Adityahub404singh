@@ -12,10 +12,6 @@
   <a href="mailto:singhaditya4560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+SkillSwap+%7C+Peer-to-Peer+Skill+Exchange;Shipping+full-stack+products+solo;React+%7C+Node.js+%7C+PostgreSQL+%7C+DevOps" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 What I'm building
@@ -31,7 +27,7 @@ I design, build, and ship products end-to-end — frontend, backend, database, a
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 <img src="https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -39,20 +35,20 @@ I design, build, and ship products end-to-end — frontend, backend, database, a
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
 
-**Frontend**
+**Frontend**  
 <img src="https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 
-**Backend & Database**
+**Backend & Database**  
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-039BE5?style=flat-square&logo=firebase&logoColor=white">
 
-**DevOps & Tools**
+**DevOps & Tools**  
 <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/render-46E3B7?style=flat-square&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white">
@@ -64,12 +60,12 @@ I design, build, and ship products end-to-end — frontend, backend, database, a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityahub404singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityahub404singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityahub404singh&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityahub404singh&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Adityahub404singh&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Adityahub404singh&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">

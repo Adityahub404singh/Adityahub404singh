@@ -1,48 +1,85 @@
-# Hey, I'm Aditya 👋
+<h1 align="center">Hi there, I'm Aditya Pratap Singh 👋</h1>
+<h3 align="center">Full-Stack Developer | Independent Product Builder | DevOps Enthusiast</h3>
 
-Full stack dev who spends most of his time somewhere between broken builds and "it works on my machine." Currently deep into the MERN stack, and slowly turning into a DevOps guy because someone has to fix the deployment at 2 AM.
+<p align="center">
+  B.Tech CSE @ KCC Institute of Technology & Management, Noida — building and shipping full-stack products solo, end to end.
+</p>
 
-Right now I'm building an **automation project** — teaching machines to do the boring stuff so I don't have to — and helping out on **SkillSwap**, a peer-to-peer skill exchange platform. Always learning MERN a little more than yesterday.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-singh-47b218321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/adi.tyacreates"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/Aaadityapsingh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:singhaditya4560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-If you're working on something around automation, AI, or full stack builds, hit me up. I'm always down to collaborate, argue about the right way to structure a repo, or just talk tech.
-
-📫 Reach me at **singhaditya4560@gmail.com** — I actually reply.
-
----
-
-### What I work with
-
-**Languages:** C, C++, C#, Java, JavaScript, TypeScript, Kotlin
-**Frontend:** HTML5, CSS3, React, Next.js, Vite
-**Backend:** Node.js, Express, Django, FastAPI, Flask
-**Mobile:** Flutter, Kotlin, Expo
-**Databases:** MongoDB, MySQL, PostgreSQL, Firebase
-**Cloud & DevOps:** AWS, Google Cloud, Cloudflare, Docker, Vercel, Render, Heroku
-**Tools I actually use daily:** Postman, Figma, Canva, Windows Terminal
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+SkillSwap+%7C+Peer-to-Peer+Skill+Exchange;Shipping+full-stack+products+solo;React+%7C+Node.js+%7C+PostgreSQL+%7C+DevOps" alt="Typing SVG" />
+</p>
 
 ---
 
-### A few honest lines about me
+### 🚀 What I'm building
 
-- I write code, break it, fix it, and somehow learn more from the breaking than the fixing.
-- Pronouns: he/him.
-- Fun fact: I've lost count of how many times "final_v2_FINAL" has saved a project.
+I design, build, and ship products end-to-end — frontend, backend, database, and deployment — without a team. Currently focused on:
 
----
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Adityahub404singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityahub404singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=Adityahub404singh&theme=dark&hide_border=false)
+- **[SkillSwap](https://skillswap-india.vercel.app)** — A peer-to-peer skill exchange platform with an escrow-based credit system, session booking with dual confirmation and OTP verification, a full admin analytics dashboard, real-time notifications, and a native Android app. Built with React + TypeScript, Express, Drizzle ORM on Neon Postgres, deployed on Vercel/Render, wrapped in Capacitor for Android.
+- **Ytauto AI** — A YouTube/Instagram content automation SaaS with a multi-tier AI video render pipeline (typography-based, AI-generated visuals, stock footage modes), built on Next.js.
+- **Dev Internship Platform** — A Firebase-hosted internship portal with an admin-controlled application/offer workflow using EmailJS and Firestore.
+- **TutorMitra** — A tutoring/mentorship platform built with React, Node.js, MongoDB, and Socket.io for real-time communication.
 
 ---
 
-### Let's connect
+### 🛠️ Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adi.tyacreates)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-47b218321)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aaadityapsingh)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhaditya4560@gmail.com)
+**Languages**
+<img src="https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
 
-<sub>Thanks for stopping by — feel free to open an issue on any of my repos or just say hi.</sub>
+**Frontend**
+<img src="https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+
+**Backend & Database**
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-039BE5?style=flat-square&logo=firebase&logoColor=white">
+
+**DevOps & Tools**
+<img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/render-46E3B7?style=flat-square&logo=render&logoColor=white">
+<img src="https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityahub404singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityahub404singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Adityahub404singh&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityahub404singh&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📫 Let's connect
+
+I'm open to collaboration, freelance work, and internship opportunities in full-stack development and DevOps. Reach out at **singhaditya4560@gmail.com**.
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos below 👇</i></p>

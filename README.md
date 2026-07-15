@@ -172,6 +172,14 @@ Most of my practical skills come from actually building and maintaining these pr
   <img src="https://streak-stats.demolab.com/?user=Adityahub404singh&theme=dark&hide_border=false" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityahub404singh/Adityahub404singh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityahub404singh/Adityahub404singh/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Adityahub404singh/Adityahub404singh/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## ❓ FAQ

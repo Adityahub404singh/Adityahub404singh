@@ -177,8 +177,8 @@ While the coursework built the fundamentals, most of my practical engineering sk
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityahub404singh&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityahub404singh&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityahub404singh&show_icons=true&theme=dark&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityahub404singh&layout=compact&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">

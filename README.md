@@ -189,10 +189,6 @@ While the coursework built the fundamentals, most of my practical engineering sk
   <img src="https://github-profile-trophy-winning.vercel.app/?username=Adityahub404singh&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Adityahub404singh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
 ---
 
 ## ✍️ Dev Quote
@@ -226,7 +222,7 @@ I'm open to collaboration, freelance work, and internship opportunities in full-
 - 📸 Instagram: [@adi.tyacreates](https://www.instagram.com/adi.tyacreates)
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Adityahub404singh&icon=0&color=0" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Adityahub404singh&color=blue&style=flat" alt="Profile views" />
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos below 👇</i></p>

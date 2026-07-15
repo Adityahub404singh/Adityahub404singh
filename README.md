@@ -2,7 +2,8 @@
 <h3 align="center">Full-Stack Developer | Independent Product Builder | DevOps Enthusiast</h3>
 
 <p align="center">
-  B.Tech CSE @ KCC Institute of Technology & Management, Noida — building and shipping full-stack products solo, end to end.
+  B.Tech CSE @ KCC Institute of Technology & Management, Noida<br/>
+  I design, build, and ship complete products solo — frontend, backend, database, deployment, and DevOps.
 </p>
 
 <p align="center">
@@ -12,20 +13,87 @@
   <a href="mailto:singhaditya4560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
-### 🚀 What I'm building
-
-I design, build, and ship products end-to-end — frontend, backend, database, and deployment — without a team. Currently focused on:
-
-- **[SkillSwap](https://skillswap-india.vercel.app)** — A peer-to-peer skill exchange platform with an escrow-based credit system, session booking with dual confirmation and OTP verification, a full admin analytics dashboard, real-time notifications, and a native Android app. Built with React + TypeScript, Express, Drizzle ORM on Neon Postgres, deployed on Vercel/Render, wrapped in Capacitor for Android.
-- **Ytauto AI** — A YouTube/Instagram content automation SaaS with a multi-tier AI video render pipeline (typography-based, AI-generated visuals, stock footage modes), built on Next.js.
-- **Dev Internship Platform** — A Firebase-hosted internship portal with an admin-controlled application/offer workflow using EmailJS and Firestore.
-- **TutorMitra** — A tutoring/mentorship platform built with React, Node.js, MongoDB, and Socket.io for real-time communication.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+SkillSwap+%E2%80%94+Peer-to-Peer+Skill+Exchange;Shipping+full-stack+products+solo;React+%7C+Node.js+%7C+PostgreSQL+%7C+DevOps;Currently+exploring+AI-powered+automation" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧭 About Me
+
+I'm a Computer Science student who builds and ships real, production-grade products rather than tutorial projects. I handle the entire lifecycle myself — architecture, frontend, backend, database design, deployment, monitoring, and bug fixing under real user load.
+
+- 🔭 **Currently building:** SkillSwap — a peer-to-peer skill exchange platform, and Ytauto AI — a content automation SaaS
+- 🌱 **Currently deepening:** DevOps practices, system design, and scalable backend architecture
+- 👯 **Looking to collaborate on:** AI-powered automation tools and full-stack SaaS products
+- 🤝 **Looking for help with:** Scaling SkillSwap's infrastructure and growth
+- 💬 **Ask me about:** React, Node.js/Express, PostgreSQL, Firebase, deployment pipelines, and debugging production issues
+- 📫 **Reach me at:** singhaditya4560@gmail.com
+- ⚡ **Fun fact:** I've lost count of how many times "final_v2_FINAL" has saved a project
+
+---
+
+## 🚀 Featured Projects
+
+### 🔄 [SkillSwap](https://skillswap-india.vercel.app) — Peer-to-Peer Skill Exchange Platform
+
+A full-stack marketplace where users exchange skills instead of money, using a credit-based escrow system to keep transactions fair and fraud-free.
+
+**Key features shipped:**
+- Escrow-based credit system with dual confirmation and OTP verification for session completion
+- Credit farming and fraud detection logic
+- Full admin panel — KPI dashboard, analytics, global search, reports, broadcast notifications, user suspension, and login-as-user impersonation
+- Real-time notification system (matches, messages, session cancellations, booking confirmations)
+- Teacher dashboard with pending request tracking
+- GDPR-compliant account deletion flow
+- Razorpay-based payment and escrow integration
+- Native Android app via Capacitor, with custom package/OAuth reconfiguration
+- Production monitoring and bug fixes: resolved oversized API payloads (~586kB responses), fixed broken relative API URLs inside the Android WebView, and fixed a cron job that was failing due to incorrect internal networking
+
+**Tech stack:** React, TypeScript, Vite, Express.js, Drizzle ORM, Neon PostgreSQL, Vercel, Render, Capacitor (Android)
+
+---
+
+### 🤖 Ytauto AI — YouTube/Instagram Content Automation SaaS
+
+An automation platform that generates and renders short-form video content using multiple AI pipelines.
+
+**Key features shipped:**
+- Multi-tier video render pipeline: typography-based videos, AI-generated visuals (Kling AI, Pollinations AI), and stock footage assembly
+- Category and configuration syncing between frontend and backend
+- Debugged and resolved storage path and encoding issues in the render pipeline
+
+**Tech stack:** Next.js, Node.js, AI video/image generation APIs
+
+---
+
+### 🎓 Dev Internship Platform
+
+A Firebase-hosted internship portal with a fully admin-controlled application workflow.
+
+**Key features shipped:**
+- Rebuilt the entire email flow so all applicant/offer emails are admin-triggered only, removing automatic emails on submission
+- Password-gated admin panel for reviewing and approving applications
+- EmailJS + Firestore integration on Firebase's free tier
+
+**Tech stack:** Firebase, Firestore, EmailJS, JavaScript
+
+---
+
+### 👨‍🏫 TutorMitra — Tutoring & Mentorship Platform
+
+A real-time tutoring platform connecting students and mentors.
+
+**Key features shipped:**
+- Real-time messaging with Socket.io
+- Rebuilt 12+ pages and resolved a dead-code audit that surfaced duplicate API clients and auth systems
+- Fixed backend response-shape mismatches between controllers and frontend expectations
+
+**Tech stack:** React, TypeScript, Node.js, MongoDB, Socket.io
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**  
 <img src="https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
@@ -47,17 +115,28 @@ I design, build, and ship products end-to-end — frontend, backend, database, a
 <img src="https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-039BE5?style=flat-square&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black">
 
-**DevOps & Tools**  
+**Mobile**  
+<img src="https://img.shields.io/badge/capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white">
+<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white">
+
+**DevOps & Cloud**  
 <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/render-46E3B7?style=flat-square&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
+
+**Tools & Design**  
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityahub404singh&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
@@ -72,10 +151,41 @@ I design, build, and ship products end-to-end — frontend, backend, database, a
   <img src="https://github-profile-trophy.vercel.app/?username=Adityahub404singh&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Adityahub404singh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
 ---
 
-### 📫 Let's connect
+## ✍️ Dev Quote
 
-I'm open to collaboration, freelance work, and internship opportunities in full-stack development and DevOps. Reach out at **singhaditya4560@gmail.com**.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
+</p>
+
+---
+
+## 📈 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityahub404singh/Adityahub404singh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> Note: The snake animation needs a one-time GitHub Action set up in this repo. Ask me and I'll walk you through enabling it — it auto-generates on every push.
+
+---
+
+## 📫 Let's Connect
+
+I'm open to collaboration, freelance work, and internship opportunities in full-stack development and DevOps.
+
+- 📧 Email: **singhaditya4560@gmail.com**
+- 💼 LinkedIn: [aditya-singh-47b218321](https://www.linkedin.com/in/aditya-singh-47b218321)
+- 🐦 X (Twitter): [@Aaadityapsingh](https://x.com/Aaadityapsingh)
+- 📸 Instagram: [@adi.tyacreates](https://www.instagram.com/adi.tyacreates)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Adityahub404singh&icon=0&color=0" /></a>
+</p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos below 👇</i></p>
